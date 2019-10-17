@@ -64,7 +64,7 @@ logo ="""
 \033[1;96m█.    _-_-- -_ --  ӉԱทҬЄГՏ ԌᗋᗰiทԌ04
 \033[1;96m█ ▲▲▲▲▲   -_ -«============✧==========»
 \033[1;96m█████████   SUBSCRIBE NOW TO MY CHANNELL ...!!
-\033[1;96m ██ ██       VIP-V3 by Hunters Gaming04                    
+\033[1;96m ██ ██       VIP-V3 by Asbar Gaming04                    
 \033[1;93m╔═══════════════════════════════════════════╗
 \033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mMr_Hunters  \033[1;93m                   ║
 \033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4m083847277532\033[0m \033[1;93m                  ║
@@ -120,7 +120,7 @@ def an():
         print 'Biasanya yg gak subscribe tidak bisa login'
         time.sleep(3)
         os.system('xdg-open https://www.youtube.com/channel/UCz5Z718-ZRUy9aBzCAHqrug ')
-        print 'User = Mr  dan   Pasw = HG04 '
+        print 'User = Asbar  dan   Pasw = gaming '
         time.sleep(5)
         print 'Masukan User dan Pass nya ?'
         uname = raw_input('\n\x1b[32;1m[\x1b[33;1m#\x1b[32;1m]\x1b[37;1m Username : ')
