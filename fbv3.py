@@ -76,7 +76,7 @@ logo ="""
 def tik():
 	titik = ['.   ','..  ','...... ']
 	for o in titik:
-		print("\r\033[1;91m[●] \033[1;92mTunggu sebentar \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;91m[●] \033[1;92mTunggu sebentar cuk \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 back = 0
 threads = []
