@@ -101,8 +101,8 @@ komengrup = []
 listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
-name = 'Mr'
-paws = 'HG04'
+name = 'Asbar'
+paws = 'gaming'
 
 def an():
     os.system('reset')
